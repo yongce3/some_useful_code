@@ -1,0 +1,2 @@
+ name = yong
+ sum(arr) =    15.0000000    
